@@ -26,7 +26,7 @@ rss:
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   #about: /about
   archives: /archives
   tags: /tags
@@ -191,7 +191,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
@@ -228,7 +228,7 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 055d36ff43e5405f2fc64d54b4a6d959
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -239,15 +239,15 @@ mathjax:
 # Baidu Share
 # Available value:
 #    button | slide
-#baidushare:
+# baidushare: true
 ##  type: button
 
 # Share
-#jiathis:
+jiathis: true
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+# duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
@@ -255,7 +255,7 @@ mathjax:
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-86138311-1
 
 # CNZZ count
 #cnzz_siteid:
@@ -347,3 +347,5 @@ images: images
 
 # Theme version
 version: 5.0.1
+
+
