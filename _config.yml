@@ -1,22 +1,18 @@
 ## 配置信息：后必须有一个空格
 ## Site
-title: Charlotte's Blog          ## 网站标题
-subtitle: 随心 随笔             ## 简介
+title: Deep Thinking         ## 网站标题
+subtitle:  ## 简介
 description: 随心 随笔          ## 描述
 author: Charlotte                ## 网站作者
 language: zh-Hans               ## 网站语言
 email: yhw1813@gmail.com
 timezone: Asia/Hong_Kong        #时区
 
-##主题
+#主题
 theme: next
-##多说评论
+#多说评论
 duoshuo_shortname: charlotteblog
+#头像
+avatar: /uploads/avatar.jpg
 ## Deployment
 ### Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  ## 部署的位置  写git
-  repository: git@github.com:CharlotteFly/charlottefly.github.io.git
-  ## 这里填写项目的地址 git@github.com:Git用户名/Git用户名.github.io.git 参照上面
-  branch: master    ## 分支选择 master
