@@ -1,0 +1,9 @@
+diff a/themes/next/_config.yml b/themes/next/_config.yml	(rejected hunks)
+@@ -255,6 +255,7 @@
+ 
+ 
+ # Google Analytics
++google_analytics: UA-86138311-1
+ 
+ # CNZZ count
+ #cnzz_siteid:
